@@ -64,5 +64,3 @@ These date-based columns (Year, Month, Quarter) enable:
 - Publish dashboard to Power BI Service
 
 ---
-
-*Feel free to fork this repo and extend the transformations or dashboards.*# Power-Bi
